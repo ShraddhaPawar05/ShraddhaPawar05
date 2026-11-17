@@ -30,6 +30,14 @@ class Shraddha:
     mindset = "Always learning, always experimenting"
     motto = "Imagine it. Build it. Improve it."
 ```
+## 🌐 My Portfolio
+
+Explore my personal portfolio showcasing my UI/UX design projects, case studies, skills, and creative work.
+
+\<p align="center">   \<a href="[https://shraddha-pawar-portfolio.vercel.app](https://shraddha-pawar-portfolio.vercel.app)">     \<img src="[https://image.thum.io/get/width/1200/crop/800/https://shraddha-pawar-portfolio.vercel.app](https://image.thum.io/get/width/1200/crop/800/https://shraddha-pawar-portfolio.vercel.app)" alt="Shraddha Pawar Portfolio Preview" width="100%" />   \</a> \</p>
+
+\<p align="center">   \<a href="[https://shraddha-pawar-portfolio.vercel.app](https://shraddha-pawar-portfolio.vercel.app)">     \<strong>✨ Visit My Portfolio ↗\</strong>   \</a> \</p>
+
 
 ## 🛠️ Tech Stack
 
